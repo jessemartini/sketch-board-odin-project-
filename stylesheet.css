@@ -1,0 +1,28 @@
+#wrapper{
+	width: 960px;
+	margin: 0px auto;
+}
+#buttonholder{
+	width: auto;
+	margin: 0px auto;
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+
+.grid{
+	background: #036;
+	/*border: 1px solid #fff;*/
+	box-shadow:0px 0px 0px 1px #024 inset;
+	display: inline-block;
+	float: left;
+	opacity: 1;
+}
+
+.sketchboard{
+	width: 960px;
+	height: 960px;
+	overflow: auto;
+	margin: 20px auto;
+}
